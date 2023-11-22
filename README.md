@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chooper35" alt="chooper35" /></a> </p>
 
 - 📫 How to reach me **ayberkduzova35@gmail.com**
--  I’m currently learning  React & PostqreSql & Node.js & Express.js
+-  I’m currently learning  .NET 8 and Microservices
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
